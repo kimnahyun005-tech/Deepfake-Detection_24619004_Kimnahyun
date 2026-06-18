@@ -120,7 +120,7 @@ EfficientNet은 모델별 권장 입력 해상도가 다르므로, 기본 입력
 
 ### 6-4. Confusion Matrix
 <p>
-<img width="572" height="421" alt="Matrix" src="https://github.com/user-attachments/assets/26b65419-4a89-45a6-a2b3-5c6bc5837408" />
+<img width="457" height="336" alt="Matrix" src="https://github.com/user-attachments/assets/26b65419-4a89-45a6-a2b3-5c6bc5837408" />
 </p>
 Confusion Matrix를 통해 Real/Fake 분류 성능과 주요 오분류 패턴을 분석하였다.
 
