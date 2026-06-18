@@ -54,7 +54,7 @@ data/
 >
 > GitHub 용량 제한으로 인해 데이터셋은 Google Drive를 통해 제공합니다.
 >
-> 🔗 [Google Drive Link](여기에 링크)
+> 🔗 (https://drive.google.com/drive/folders/1j6NAzARefrXG7p4U_NkSNmAFRE2AZnyf?usp=sharing)
 >
 > 포함 항목
 > 
