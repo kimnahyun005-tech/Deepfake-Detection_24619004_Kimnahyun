@@ -1,5 +1,8 @@
 # <h1 align="center">CNN 기반 딥페이크 탐지 모델</h1>
-# (CNN-based Deepfake Detection)
+
+<p align="center">
+24619004 · 김나현
+</p>
 
 ## 프로젝트 소개
 본 프로젝트는 CNN 기반 딥러닝 모델을 활용하여 이미지의 딥페이크 여부를 탐지하는 것을 목표로 한다.
